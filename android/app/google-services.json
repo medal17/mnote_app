@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "579452975928",
+    "firebase_url": "https://mnote-7214a.firebaseio.com",
+    "project_id": "mnote-7214a",
+    "storage_bucket": "mnote-7214a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579452975928:android:700aad1356334c914a9fcd",
+        "android_client_info": {
+          "package_name": "com.medal.mnoteapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579452975928-otj56f66ks3nhcr2d2s2b840h6he34jr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSofqb_aOZio8PpPD6fFFynPcusb5oJZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579452975928-otj56f66ks3nhcr2d2s2b840h6he34jr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "579452975928-66m3ee6oo6140a3hpqpbgtreh2ppedbs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.medal.mnoteapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
